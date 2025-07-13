@@ -209,3 +209,5 @@ __marimo__/
 .idea
 .DS_Store
 */.DS_Store
+output
+output/*
